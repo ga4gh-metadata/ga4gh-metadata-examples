@@ -30,11 +30,7 @@
                 "ontology_terms": [
                     {
                         "term_id": "ncit:C3778",
-                        "term_label": null
-                    },
-                    {
-                        "term_id": "snmi:M-84413",
-                        "term_label": "Serous cystadenocarcinoma, NOS"
+                        "term_label": "Serous Cystadenocarcinoma",
                     },
                     {
                         "term_id": "pgx:icdom:8441_3",
