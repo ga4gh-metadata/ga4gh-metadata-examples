@@ -1,0 +1,20 @@
+[
+	{
+    	"id" : "1",
+    	"origin" : "NCBI",
+    	"scientificname" :  "root",
+    	"Synonym" : "all"
+	},
+    {
+    	"id" : "2",
+    	"origin" : "NCBI",
+    	"scientificname" :  "Bacteria",
+    	"Synonym" : "not Bacteria Haeckel 1894"
+	},
+	{	
+	 	"id" : "1",
+    	"origin" : "GREENGENES",
+    	"scientificname" :  "Bacteria",
+    	"Synonym" : "all the bacteria"
+	}
+]
