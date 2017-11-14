@@ -5,4 +5,5 @@ This repository will contain data and information based implementation of a GA4G
 Data & schemas represented here are not kept in a stable/versioned status, but are updated together with or anticipating GA4GH schema changes.
 
 Current datasets:
-* [arrayMap](http://arraymap.org) 
+* [arrayMap](http://arraymap.org)
+* [metagenomic] 
