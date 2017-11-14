@@ -6,4 +6,4 @@ Data & schemas represented here are not kept in a stable/versioned status, but a
 
 Current datasets:
 * [arrayMap](http://arraymap.org)
-* [metagenomic] 
+* metagenomic 
