@@ -1,0 +1,578 @@
+[
+	{
+		"id" : "P1_M0",
+		"individual_id" : "P1",
+		"name" : "P1_M0",
+		"description" : "early stage of P1",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-04-20T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P1_M3",
+		"individual_id" : "P1",
+		"name" : "P1_M3",
+		"description" : "later stage of P1",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-07-20T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P2_M0",
+		"individual_id" : "P2",
+		"name" : "P2_M0",
+		"description" : "early stage of P2",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2013-10-08T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P2_M3",
+		"individual_id" : "P2",
+		"name" : "P2_M3",
+		"description" : "later stage of P2",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-02-10T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P3_M0",
+		"individual_id" : "P3",
+		"name" : "P3_M0",
+		"description" : "early stage of P3",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-01-23T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P3_M3",
+		"individual_id" : "P3",
+		"name" : "P3_M3",
+		"description" : "later stage of P3",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-04-20T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P4_M0",
+		"individual_id" : "P4",
+		"name" : "P4_M0",
+		"description" : "early stage of P4",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-02-17T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P4_M3",
+		"individual_id" : "P4",
+		"name" : "P4_M3",
+		"description" : "later stage of P4",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-05-19T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P5_M0",
+		"individual_id" : "P5",
+		"name" : "P5_M0",
+		"description" : "early stage of P5",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2013-09-30T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P5_M3",
+		"individual_id" : "P5",
+		"name" : "P5_M3",
+		"description" : "later stage of P5",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-01-06T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P6_M0",
+		"individual_id" : "P6",
+		"name" : "P6_M0",
+		"description" : "early stage of P6",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2013-11-04T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P6_M3",
+		"individual_id" : "P6",
+		"name" : "P6_M3",
+		"description" : "later stage of P6",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-02-06T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P7_M0",
+		"individual_id" : "P7",
+		"name" : "P7_M0",
+		"description" : "early stage of P7",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-03-12T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P7_M3",
+		"individual_id" : "P7",
+		"name" : "P7_M3",
+		"description" : "later stage of P7",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-06-12T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P8_M0",
+		"individual_id" : "P8",
+		"name" : "P8_M0",
+		"description" : "early stage of P8",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-02-06T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P8_M3",
+		"individual_id" : "P8",
+		"name" : "P8_M3",
+		"description" : "later stage of P8",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-05-06T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P9_M0",
+		"individual_id" : "P9",
+		"name" : "P9_M0",
+		"description" : "early stage of P9",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-03-31T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P9_M3",
+		"individual_id" : "P9",
+		"name" : "P9_M3",
+		"description" : "later stage of P9",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-07-06T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P10_M0",
+		"individual_id" : "P10",
+		"name" : "P10_M0",
+		"description" : "early stage of P10",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-05-29T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P10_M3",
+		"individual_id" : "P10",
+		"name" : "P10_M3",
+		"description" : "later stage of P10",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2015-08-27T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P11_M0",
+		"individual_id" : "P11",
+		"name" : "P11_M0",
+		"description" : "early stage of P11",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2013-11-28T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P11_M3",
+		"individual_id" : "P11",
+		"name" : "P11_M3",
+		"description" : "later stage of P11",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-03-11T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+		{
+		"id" : "P12_M0",
+		"individual_id" : "P12",
+		"name" : "P12_M0",
+		"description" : "early stage of P12",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2013-09-23T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	},
+	{
+		"id" : "P12_M3",
+		"individual_id" : "P12",
+		"name" : "P12_M3",
+		"description" : "later stage of P12",
+		"bio_characteristics" : [
+			{
+			"description" : "arthritis",
+			"ontology_terms" : [
+				{
+					"term_id" : "DOID:848",
+					"term_label" : "arthritis"
+				}
+			]
+			}
+		],
+		"Date" : ISODate("2014-01-20T00:00:00Z"),
+		"location" : {
+			"geo_label" : "Bordeaux",
+			"latitude" : 44.83,
+			"longitude" :  -0.58,
+			"geo_precision" : "city"
+		}
+	}
+]

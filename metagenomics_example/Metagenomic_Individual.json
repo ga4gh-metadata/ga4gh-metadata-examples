@@ -1,0 +1,313 @@
+[
+	{
+		"id": "P1",
+		"name" : "P1",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+	,
+	{
+		"id": "P2",
+		"name" : "P2", 
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020001",
+			"term_label": "male genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+	,
+	{
+		"id": "P3",
+		"name" : "P3",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P4",
+		"name" : "P4",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P5",
+		"name" : "P5",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P6",
+		"name" : "P6",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P7",
+		"name" : "P7",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P8",
+		"name" : "P8",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P9",
+		"name" : "P9",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P10",
+		"name" : "P10",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P11",
+		"name" : "P11",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+		,
+	{
+		"id": "P12",
+		"name" : "P12",
+		"species": {
+			"term_id": "NCBITaxon:9606", 
+			"term_label": "Homo sapiens"
+		}, 
+		"sex": {
+			"term_id": "PATO:0020002", 
+			"term_label": "female genotypic sex"
+		}, 
+		"description" : "individual with spondyloarthritis syndrome",
+		"bio_characteristics" : [
+			{
+				"description" : "spondyloarthritis",
+				"ontology_terms" : [ 
+					{
+						"term_id" : "DOID:848",
+						"term_label" : "arthritis"
+					}
+				]
+			}
+		],
+		"attributes" : null
+	}
+]
