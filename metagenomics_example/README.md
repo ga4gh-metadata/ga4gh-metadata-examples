@@ -15,17 +15,24 @@ URL : https://www.ebi.ac.uk/ebisearch/search.ebi?query=PRJEB23107&submit=&db=all
 
 ### How to import the data
 
+```
+mongoimport --db metagenomics --collection individuals --drop --file Metagenomic_Individual.json --jsonArray
+mongoimport --db metagenomics --collection biosamples --drop --file Metagenomic_Biosample.json --jsonArray
+mongoimport --db metagenomics --collection species --drop --file Metagenomic_NCBI.json --jsonArray
+mongoimport --db metagenomics --collection assignsets --drop --file Metagenomic_Assignment.json --jsonArray
+```
+
+
 ### Data manipulation with MongDB shell
 
 Example of MongoDB query : 
 
 ```
 use metagenomics
-db.biosamples.find({'attributes.country.values.string_value' : 'United Kingdom'})
-db.biosamples.findOne({'description' : {'$regex' : 'breast'}})
-db.variants.find({variant_type:"DEL", reference_name:"17", start:{$gte:30000000}, end:{$lte:31000000}},{"calls.call_set_id":1})
+db.assignsets.find({"node_name":"Gemmatimonas" },{"biosample_id":1,"_id":0})
+db.biosamples.find({"bio_characteristics.description":"arthritis"})
+db.assignsets.find({"node_name":"Roseburia faecis","values.count" : {$gt:10000 }})
 ```
-
 
 
 ### Web server
