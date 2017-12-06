@@ -13,6 +13,15 @@ URL : https://www.ebi.ac.uk/ebisearch/search.ebi?query=PRJEB23107&submit=&db=all
 
 ### Structure
 
+in this implementation of the GA4GH schema we find classically the biosamples and individuals collections
+The specific part of metagenomic data concerns the species and assignsets collections
+ - species will contain the set of nodes from the taxonomic reference (NCBI)
+ - assignsets will contain for each biosample the count (raw or normalised) of these nodes 
+
+FYI : the frequency is calculated from the count and the number of count to the 'Bacteria' node
+
+FYI : node name in the assignsets collections is not limited to those present in the species collection. If another taxonomy is used, a link to the reference taxonomy can be provided.
+
 ### How to import the data
 
 ```
