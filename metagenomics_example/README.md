@@ -18,7 +18,7 @@ The specific part of metagenomic data concerns the species and assignsets collec
  - species will contain the set of nodes from the taxonomic reference (NCBI)
  - assignsets will contain for each biosample the count (raw or normalised) of these nodes 
 
-FYI : the frequency is calculated from the count and the number of count to the 'Bacteria' node
+FYI : the proportion is calculated from the count of a node and the number of count to the 'Bacteria' node in the same sample
 
 FYI : node name in the assignsets collections is not limited to those present in the species collection. If another taxonomy is used, a link to the reference taxonomy can be provided.
 
