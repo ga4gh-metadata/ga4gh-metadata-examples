@@ -2,7 +2,7 @@
 
 The files in this directory show examples for the representation of genomic and metadata from the [arrayMap](http://arraymap.org) cancer genome repository, using the [GA4GH metadata schema](http://ga4gh-metadata.github.io). These examples are direct excerpts from the MongoDB collections behind the [Beacon+](http://beacon.progenetix.org) implementation.
 
-Apart from the metadata, these examples represent genomic variants in the following form, derived from the original GA4GH variant schema and aligned with the [Beacon API](http://ga4gh-beacon.github.io). Changes include the per-variant annotation of `biosample_id` and `callset_id` (instead of lists of callsets for each variant).
+Apart from the metadata, these examples represent genomic variants in the following form, derived from the original GA4GH variant schema and aligned with the [Beacon API](http://ga4gh-beacon.github.io). Changes include the per-variant annotation of `biosample_id` and `callset_id` (instead of lists of calls for each variant).
 
 #### Precise variants (SNV...):
 
