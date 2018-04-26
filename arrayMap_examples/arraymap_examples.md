@@ -1,4 +1,4 @@
-## arrayMap examples
+## arrayMap / TCGA examples
 
 The files in this directory show examples for the representation of genomic and metadata from the [arrayMap](http://arraymap.org) cancer genome repository, using the [GA4GH metadata schema](http://ga4gh-metadata.github.io). These examples are direct excerpts from the MongoDB collections behind the [Beacon+](http://beacon.progenetix.org) implementation.
 
